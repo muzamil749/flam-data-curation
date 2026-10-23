@@ -1,0 +1,13 @@
+{
+  "input_docs": 1000,
+  "kept_docs": 996,
+  "quality_dropped": 0,
+  "exact_duplicates": 0,
+  "near_duplicates": 4,
+  "languages": {
+    "hi": 499,
+    "hi-Latn": 420,
+    "en": 77
+  },
+  "near_dedup_threshold": 0.92
+}

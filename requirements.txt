@@ -1,0 +1,17 @@
+# Core
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Near duplicate detection
+sentence-transformers==5.1.2
+transformers==4.57.1
+huggingface-hub==0.34.4
+
+# Similarity
+scikit-learn>=1.7.0
+
+# Deep Learning Backend
+torch>=2.1.0
+
+# Utilities
+tqdm>=4.67.0
